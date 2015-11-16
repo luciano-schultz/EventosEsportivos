@@ -1,0 +1,34 @@
+.topo{
+	background: #031634;
+	color: #FFF;
+}
+.logo{
+	position: relative;
+}
+.conteudo{
+	
+}
+.filtro{
+	background: #FFF;
+}
+.publicidade{
+	display: block;
+
+}
+.rodape{
+	width: 100%;
+	height: 70px;
+	background: #CFF09E;
+	color: #0B486B;
+	text-align: center;
+	padding-top: 25px;
+	font-size: 15px;
+}
+.publicidade img{
+	padding: 0px 0px 22px 22px;
+}
+.img-center {
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+}
